@@ -29,8 +29,6 @@ The external overlay can display:
 
 * Entity boxes
 * Health
-* Armour
-* Entity information
 
 ### ❄️ Z Freeze
 
@@ -70,8 +68,8 @@ Recommended project structure:
 AssaultCube-External/
 │
 ├── screenshots/
-│   ├── menu.png
-│   └── esp.png
+│   ├── screenshorts1.png
+│   └── screenshorts2.png
 │
 ├── src/
 │   └── ...
