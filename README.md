@@ -61,7 +61,7 @@ Demonstrates external memory writing by modifying:
 ## 📸 Screenshots
 
 ```md
-(screenshots/screenshorts1.png)
+![Project Screenshot](screenshot/screenshot1.png)  
 
 (screenshots/screenshorts2.png)
 ```
