@@ -195,7 +195,7 @@ The author is not responsible for any misuse, damage, account restrictions, or o
 
 ## 👤 Credits
 
-**Developer:** Hossam
+**Developer:** HOSSAM
 
 Created as an educational project for learning and experimentation with C# and external game tools.
 
