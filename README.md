@@ -61,9 +61,9 @@ Demonstrates external memory writing by modifying:
 ## 📸 Screenshots
 
 ```md
-![Menu](screenshots/screenshorts1.png)
+(screenshots/screenshorts1.png)
 
-![ESP Overlay](screenshots/screenshorts2.png)
+(screenshots/screenshorts2.png)
 ```
 
 Recommended project structure:
