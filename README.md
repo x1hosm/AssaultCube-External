@@ -95,14 +95,12 @@ AssaultCube-External/
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/x1hosm/AssaultCube-External.git)
+git clone https://github.com/x1hosm/AssaultCube-External.git
 ```
 
 2. Open the solution/project in **Visual Studio**.
 
-3. Restore NuGet packages if required.
-
-4. Select the appropriate build configuration:
+3. Select the appropriate build configuration:
 
 ```text
 Release
