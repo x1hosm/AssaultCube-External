@@ -60,11 +60,9 @@ Demonstrates external memory writing by modifying:
 
 ## 📸 Screenshots
 
-```md
-![Screenshot](screenshorts/screenshorts1.png)
+![Screenshot 1](screenshorts/screenshorts1.png)
 
-(screenshots/screenshorts2.png)
-```
+![Screenshot 2](screenshorts/screenshorts2.png)
 
 Recommended project structure:
 
