@@ -28,7 +28,7 @@ A C# menu used to control and configure the available features.
 The external overlay can display:
 
 * Entity boxes
-* Health
+* Health Value
 
 ### ❄️ Z Freeze
 
