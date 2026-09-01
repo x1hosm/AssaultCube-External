@@ -71,8 +71,10 @@ AssaultCube-External/
 │   ├── screenshorts1.png
 │   └── screenshorts2.png
 │
-├── src/
+├── AssaultCubeHack/
 │   └── ...
+│
+├── AssaultCube-External.sln
 │
 ├── README.md
 ├── LICENSE
